@@ -10,7 +10,7 @@ with the knowledge of COMP4434 (Big Data Analytics).
 
 ## Getting Started
 
-Start by downloading the project and run "COMP4434_IPROJ_Mid_Submission.ipynb" file in ipython-notebook.
+Start by downloading the project and run "SourceCode.ipynb" file in ipython-notebook.
 
 ### Prerequisites
 
